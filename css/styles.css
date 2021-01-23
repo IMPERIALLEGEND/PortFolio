@@ -12,7 +12,8 @@
 body{
   background-color: black;
   color: white;
-  /* background-image: url(/img/intro-bg.jpg); */
+  
+  
 }
 /*===== Colores =====*/
 :root{
@@ -65,6 +66,7 @@ body{
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
+  background-image: url(/img/intro-bg.jpg);
 }
 h1,h2,p{
   margin: 0;
