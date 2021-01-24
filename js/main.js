@@ -44,15 +44,31 @@ sr.reveal('.about__img',{});
 sr.reveal('.about__subtitle',{delay: 400}); 
 sr.reveal('.about__text',{delay: 400}); 
 
+/*SCROLL EDUCATION*/
+sr.reveal('.section-title',{}); 
+sr.reveal('.education__subtitle',{delay: 400}); 
+sr.reveal('.education__text',{delay: 400}); 
+
+/*SCROLL EXPERINCE*/
+sr.reveal('.section-title',{}); 
+sr.reveal('.experience__subtitle',{delay: 400}); 
+sr.reveal('.experience__text',{delay: 400}); 
+
 /*SCROLL SKILLS*/
+sr.reveal('.section-title',{}); 
+sr.reveal('.skills__subtitle',{delay: 400}); 
+sr.reveal('.skills__text',{delay: 400}); 
 
-sr.reveal('.skills__subtitle',{}); 
-sr.reveal('.skills__text',{}); 
-sr.reveal('.skills__data',{interval: 200}); 
-sr.reveal('.skills__img',{delay: 600});
 
-/*SCROLL WORK*/
-sr.reveal('.work__img',{interval: 200}); 
+/*SCROLL CERTIFICATE*/
+sr.reveal('.section-title',{}); 
+sr.reveal('.certificate__subtitle',{delay: 400}); 
+sr.reveal('.certificate__text',{delay: 200}); 
+
+/*SCROLL PROJECT*/
+sr.reveal('.section-title',{}); 
+sr.reveal('.project__subtitle',{delay: 400}); 
+sr.reveal('.card',{delay: 400}); 
 
 /*SCROLL CONTACT*/
 sr.reveal('.contact__input',{interval: 200}); 
