@@ -71,7 +71,7 @@ sr.reveal('.project__subtitle',{delay: 400});
 sr.reveal('.card',{delay: 400}); 
 
 /*SCROLL CONTACT*/
-sr.reveal('.contact__input',{interval: 200}); 
+sr.reveal('.contact__input',{interval: 100}); 
 
 
 
